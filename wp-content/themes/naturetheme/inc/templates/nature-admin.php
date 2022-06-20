@@ -3,7 +3,5 @@
 <p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
 
 <?php
-
  bloginfo('name');
-
  ?>
