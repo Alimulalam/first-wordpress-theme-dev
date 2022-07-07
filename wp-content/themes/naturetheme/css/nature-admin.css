@@ -1,0 +1,25 @@
+/*
+@package naturetheme
+================================
+*/
+.nature-general-form,
+.nature-sidebar-preview{
+    display: block;
+    float: left; 
+    
+}
+.nature-sidebar-preview{
+    width: 280px;
+    background-color: #1f1f1f;
+    padding: 20px;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 16px;
+}
+.nature-sidebar{display: block;text-align: center;}
+h1.nature-username,
+h2.nature-description{font-weight: 100; color: #ffffff;}
+h1.nature-username{font-size: 24px; margin: 0 0 10px;}
+h2.nature-description{font-size: 13px; margin: 0 0 20px;}
+.image-container{display: block;width: 100%;overflow: hidden;text-align: center;}
+.profile-picture{width: 122px;height: 122px; overflow: hidden;border-radius: 50%;margin: 20px auto;background-position: center center;background-repeat: no-repeat;background-size: cover;}
